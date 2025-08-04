@@ -391,10 +391,6 @@ Whether you're a **senior architect** managing million-line codebases, a **start
 - [Pricing Calculator](https://developertoolkit.ai/en/appendices/pricing-calculator/)
 - [Documentation Updates](https://developertoolkit.ai/en/appendices/update-tracker/)
 
-### 🎮 Interactive Demo
-
-- [Try the Demo](https://developertoolkit.ai/en/demo/) - See AI development in action
-
 ## 🤝 Contributing
 
 This toolkit is actively being developed and expanded. We welcome community contributions to improve the quality and coverage of this guide. If you encounter issues, outdated information, or have suggestions for improvement:
